@@ -1,6 +1,6 @@
 # Hey, I'm Arthur Alves Borba!
 
-### 💻 Aspiring Software Developer
+### Aspiring Software Developer
 
 I'm a student of **Internet Computing**, passionate about technology, programming and problem-solving.
 
