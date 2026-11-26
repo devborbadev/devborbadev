@@ -49,7 +49,9 @@ I'm currently building my programming skills, exploring new technologies and dev
 ### 📫 Contact
 
 - 💻 GitHub: [@devborbadev](https://github.com/devborbadev)
-- 📧 Email: Add your professional email here
+<a href="mailto:Arthuralves.inv@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
