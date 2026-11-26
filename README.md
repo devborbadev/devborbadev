@@ -33,7 +33,3 @@ I'm a student of **Internet Computing**, passionate about technology, programmin
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devborbadev)
 
----
-
-*“Always learning. Always building.”*
-
