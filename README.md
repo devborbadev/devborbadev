@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arthur Alves Borba!
+# Hey, I'm Arthur Alves Borba!
 
 ### 💻 Aspiring Software Developer
 
