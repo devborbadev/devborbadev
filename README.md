@@ -29,8 +29,6 @@ I'm a student of **Internet Computing**, passionate about technology, programmin
 - Exploring Python and Java
 - Learning more about Cybersecurity
 
----
-
 ### 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devborbadev)
