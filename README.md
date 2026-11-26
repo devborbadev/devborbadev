@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Developer
 
-I'm a student of **Internet Computing at**, passionate about technology, programming and problem-solving.
+I'm a student of **Internet Computing**, passionate about technology, programming and problem-solving.
 
 I'm currently building my programming skills, exploring new technologies and developing projects to turn ideas into reality.
 
